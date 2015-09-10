@@ -35,4 +35,4 @@ Thumbs.db
 
 # Folders to ignore
 bower_components
-node_modules
+#node_modules
